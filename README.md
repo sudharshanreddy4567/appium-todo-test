@@ -91,12 +91,4 @@ Developed as part of a medium-level Appium automation project using an open-sour
 
 
 
----
-
-Let me know if you also want me to generate:
-
-- `requirements.txt`
-- `appium_driver.py` sample
-- All test and page object boilerplate code
-
-I can deliver all the code with human-written formatting if needed for GitHub.
+-Author: K.Sudharshan Reddy
