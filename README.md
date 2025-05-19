@@ -17,35 +17,6 @@ Supports both Android emulators and real devices with optional **Allure reports*
 - **Reporting Tool**: Allure (optional)
 
 ---
-
-## 📁 Project Structure
-
-├── test_cases/ # Test scripts for app features
-│ ├── test_add_task.py
-│ ├── test_delete_task.py
-│ └── test_complete_task.py
-│
-├── pages/ # Page Object classes
-│ ├── base_page.py
-│ ├── home_page.py
-│ └── add_task_page.py
-│
-├── drivers/ # Appium driver setup
-│ └── appium_driver.py
-│
-├── utils/ # Config and utilities
-│ └── config.py
-│
-├── apk/ # ToDo app APK
-│ └── todo-app.apk
-│
-├── pytest.ini
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
-
 ---
 
 ## ⚙️ Setup Instructions
