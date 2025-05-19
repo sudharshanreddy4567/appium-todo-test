@@ -51,7 +51,6 @@ Supports both Android emulators and real devices with optional **Allure reports*
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/appium-todo-test.git
 cd appium-todo-test
 2. Create Virtual Environment
